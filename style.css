@@ -1,0 +1,23 @@
+body{
+    background-color : #330033;
+}
+
+div.body{
+    text-align: center;
+}
+h1.title{
+    text-align: center;
+    color : green;
+}
+
+h3.new{
+    color : red;
+}
+
+h3.recommend{
+    color : orange;
+}
+
+h3.all{
+    color : blue;
+}
